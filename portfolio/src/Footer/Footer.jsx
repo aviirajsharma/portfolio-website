@@ -43,7 +43,7 @@ const Footer = () => {
             &copy; {currentYear} Portfolio. All Rights Reserved.
           </div>
           <div className="credits">
-            Designed & Built by Alex Johnson
+            Designed & Built by Aviraj Sharma
           </div>
         </div>
       </div>
